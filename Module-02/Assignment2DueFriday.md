@@ -1,10 +1,12 @@
-# TITLE
+# Case Study on Applied Energy Group (AEG) a subsidiary of AMERESCO
 
 ## Overview and Origin
 
 * Name of company
+Applied Energy Group (AEG)
 
 * When was the company incorporated?
+The company is based in the United States of America, head quartered in Islandia, New York, was incorporated in 1982 but is a wholly-owned subsidiary of Ameresco, Inc since 2011.
 
 * Who are the founders of the company?
 
@@ -15,6 +17,7 @@
 ## Business Activities
 
 * What specific financial problem is the company or project trying to solve?
+Their pr
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
 What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
@@ -46,3 +49,13 @@ What solution does this company offer that their competitors do not or cannot of
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
+
+## References
+
+[Linked-in AEG Overview](https://www.linkedin.com/company/applied-energy-group/about/)
+
+[AEG's ZoomInfo](https://www.zoominfo.com/c/applied-energy-group-inc/4901806)
+
+[AEG presentation - NET](https://neprisstore.blob.core.windows.net/sessiondocs/doc_8a62c656-4e14-4aad-9a93-422a6d36b8aa.pptx)
+
+[AEG Company Profile](https://www.appliedenergygroup.com/wp-content/uploads/2020/12/AEG-Company-Profile.pdf)
