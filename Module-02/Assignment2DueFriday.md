@@ -6,13 +6,15 @@
 Applied Energy Group (AEG)
 
 * When was the company incorporated?
-The company is based in the United States of America, head quartered in Islandia, New York, was incorporated in 1982 but is a wholly-owned subsidiary of Ameresco, Inc since 2011.
+The company is based in the United States of America, head quartered in Islandia, New York, was incorporated in 1982 but is a wholly-owned subsidiary of Ameresco, Inc since Jul 14th, 2011.
 
 * Who are the founders of the company?
+Applied Energy Group was co-founded by Michael Marks, the Current President is Tim Maslak, and the is Senior Vice President Ingrid Rohmund.
 
 * How did the idea for the company (or project) come about?
 
 * How is the company funded? How much funding have they received?
+According to CrunchBase the Applied Engergy Group (AEG) has raised a total of $1.2M in funding over 4 rounds.  Their latest funding was raised on May 5th, 2003 from a Grant round.  Before that there was another Grant round on April 23, 2001.
 
 ## Business Activities
 
@@ -40,9 +42,19 @@ There are about three-thousand three-hundred (3,300) power companies operating i
 * Which technologies are they currently using, and how are they implementing them?
 The company is currently leveraging a rules engine to stay ahead of the pack by doing more configuration changes that full blown programing changes.  The flexibility extends to their reporting as well.  Demonstrated on the website is sample reports which can be amended by end-users on the fly to produce different reports.
 
+People employed to the Technical Roles there listed SQL, R and Python along with MS Power BI and DAX, Matlab, GIS among the skills they posses.
+
+The tech currently used include Oracle and SQL Server databases, Crystal and or Sql Server Reporting services as well as Business Intelligence.
+
+"AEG's comprehensive suite of analytic tools addresses the entire DSM lifecycle including baseline and potential studies, program design, cost-effectiveness, and measurement and evaluation. In particular, VisionDSM has enabled utilities, implementers, and state and
+government agencies to gain comprehensive end-to-end insights across their portfolio of programs, while achieving operational efficiencies through a highly-flexible system."
+
+"A robust, transparent end-use modeling approach to potential assessment supports the entire spectrum of proactive planning and goal setting activities. These studies provide an unparalleled ability to quantify the temporal and geographic savings and costs of EE, DR, and DER measures at the technological level to drive decision making within your organization. Our team also supports program and portfolio planning with written and expert witness testimony, and response to information requests."
+
 ## Landscape
 
 * What domain of the financial industry is the company in?
+The company is definitely in Regulation Technology (RegTech) and Enterprise Solutions.
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
@@ -77,3 +89,13 @@ The company is currently leveraging a rules engine to stay ahead of the pack by 
 [AEG Company Profile](https://www.appliedenergygroup.com/wp-content/uploads/2020/12/AEG-Company-Profile.pdf)
 
 [Energy demand management Wikipedia](https://en.wikipedia.org/wiki/Energy_demand_management)
+
+[AEG - CrunchBase](https://www.crunchbase.com/organization/applied-energy-group-inc)
+
+[AEG Tech Business Analyst](https://www.linkedin.com/in/vincentgiordano47/)
+
+[Lead Analyst at Applied Energy Group, Inc](https://www.linkedin.com/in/rstrange/)
+
+[Analyst at Applied Energy Group, Inc.](https://www.linkedin.com/in/stephanieyjchen)
+
+[Sr SQL Developer at Applied Energy Group, Inc.](https://www.linkedin.com/in/ankur-patoliya-46518445)
