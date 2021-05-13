@@ -21,6 +21,8 @@ According to CrunchBase the Applied Engergy Group (AEG) has raised a total of $1
 * What specific financial problem is the company or project trying to solve?
 Applied Energy Group opperates in the United States Energy Sector, as a Management Consulting Company.  The Energy Sector has has many kinds of power plants all across the country.  These power plants have regulations that govern their operations.  Reporting on these regulations is a legal requirement for the operations of the power company.
 
+The main objective of an Evaluation, Measurement and Verification (EM&V) process is to assess the performance of an energy efficiency program or project and to measure the energy or demand savings and verify if the program is generating the expected level of savings.  EM&V data can inform recommendations for improvements in program performance.  Having a clear understanding and description of how the program is expected to deliver results is critical to an effective EM&V process.  The distinct components of EM&V provide the framework to ensure a successful program implementation.
+
 Constanly managing and maintaining compliance with the regulations is an ever changing and highly demanding exercise for a typical power company.  These regulations will vary based on the means that power is generated, that is a nuclear power plant will have different parameters to watch when compared to a solar power plant.  Namely there will not be a need for regulations about nuclear waste disposal for example.  Compound this issue with humdreds of plants in many different regulatory jurisdictions.  The ability of AEG to configure hundreds of requirements for each power plant and generate the required results is what sets them apart from their competitors.
 
 However there are many similarities between these types of power generation.  These include the amount of power produced, maximum available output etc.  This is where AEG has made their distinction in the market place.  Their VisionDSM system is able to constantly montior a wide variety of inputs and provide feedback a head of time about these critical changes that need to be made for compliance reasons.
@@ -46,6 +48,8 @@ People employed to the Technical Roles there listed SQL, R and Python along with
 
 The tech currently used include Oracle and SQL Server databases, Crystal and or Sql Server Reporting services as well as Business Intelligence.
 
+The systems presents as a Software as a Service (SaaS) solution that readily manages annual and multi-year program changes, including ongoing regulatory, Evaluation Measurement and Verification (EM&V) and program optimization changes.
+
 "AEG's comprehensive suite of analytic tools addresses the entire DSM lifecycle including baseline and potential studies, program design, cost-effectiveness, and measurement and evaluation. In particular, VisionDSM has enabled utilities, implementers, and state and
 government agencies to gain comprehensive end-to-end insights across their portfolio of programs, while achieving operational efficiencies through a highly-flexible system."
 
@@ -54,7 +58,19 @@ government agencies to gain comprehensive end-to-end insights across their portf
 ## Landscape
 
 * What domain of the financial industry is the company in?
-The company is definitely in Regulation Technology (RegTech) and Enterprise Solutions.
+The company is in two domains Regulation Technology (RegTech) and Enterprise Solutions.  The product (VisionDSM) speaks to both domains.  
+
+The main objective of an EM&V process is to assess the performance of an energy efficiency
+program or project and to measure the energy or demand savings and verify if the program is
+generating the expected level of savings. EM&V data can inform recommendations for improvements in program performance. Having a clear understanding and description of how
+the program is expected to deliver results is critical to an effective EM&V process. The distinct components of EM&V provide the framework to ensure a successful program implementation and are discussed below in that context.
+
+The EM&V process is analogous to the evaluation of business or employee performance. For
+example, did the company meet its profit or growth objective? What can be done to improve
+performance? In the energy efficiency market, the EM&V process answers the question of
+whether the investments in energy efficiency achieved the objectives expected or required.
+
+The workflow processing assists with the capture of the information essential for reporting and maintaining the various regulations required by State and Federal Regulators.
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 
@@ -72,6 +88,7 @@ The company is definitely in Regulation Technology (RegTech) and Enterprise Solu
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
+
 * Why do you think that offering this product or service would benefit the company?
 
 * What technologies would this additional product or service utilize?
@@ -79,6 +96,8 @@ The company is definitely in Regulation Technology (RegTech) and Enterprise Solu
 * Why are these technologies appropriate for your solution?
 
 ## References
+
+[The market-leading Demand Side Management (DSM) portfolio management platform](https://www.appliedenergygroup.com/visiondsm/)
 
 [Linked-in AEG Overview](https://www.linkedin.com/company/applied-energy-group/about/)
 
@@ -99,3 +118,5 @@ The company is definitely in Regulation Technology (RegTech) and Enterprise Solu
 [Analyst at Applied Energy Group, Inc.](https://www.linkedin.com/in/stephanieyjchen)
 
 [Sr SQL Developer at Applied Energy Group, Inc.](https://www.linkedin.com/in/ankur-patoliya-46518445)
+
+[What is EM&V (US Department of Energy)](https://www.energy.gov/sites/prod/files/2014/05/f16/what_is_emv.pdf)
